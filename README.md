@@ -1,7 +1,7 @@
 # Exno.9-To explore and understand the various prompting techniques used for generating videos through AI models. 
 
-# Date: 
-# Register no.:
+# Date: 11/11/2025
+# Register no.:212223100003
 # Aim: To perform the Exploration of Prompting Techniques for Video Generation
 # Algorithm: Explore how various prompting techniques can be used to generate and manipulate video content (e.g., animations, visual effects, video summaries) using AI models. Procedure:
 Familiarize Yourself with Video Generation Models:
@@ -32,15 +32,50 @@ Save and Compare Outputs:
 Save different versions of the videos and compare the results to understand how different prompts produce varying styles, sequences, and video qualities.
 
 
-# Result: The Prompt of the above task executed successfully
+
+# Output: 
+
+# 🎬 Prompt 1: Realistic Cinematic Video
+Title: Evening Walk in the Park – Cinematic Realism
+# Prompt:
+
+```A cinematic video of a young woman in a red jacket walking through a city park during sunset. The camera follows her from behind as golden sunlight filters through the trees. Birds fly across the orange sky, and a gentle breeze moves the leaves. The camera slowly pans to reveal a calm lake reflecting the warm colors of the sky. Background soft piano music playing, with natural sound effects like footsteps and chirping birds. Realistic lighting, smooth motion, and natural depth of field.```
+
+# Purpose:
+To explore realistic motion, lighting effects, and natural camera transitions using descriptive and time-based elements.
+
+
+# video Link:
+https://drive.google.com/file/d/1UMzQSbcYcwW87SQ9P1FvY1Thq5WmIog0/view?usp=drive_link
+
+# video Images:
+![WhatsApp Image 2025-11-13 at 09 10 12_0222ca4e](https://github.com/user-attachments/assets/df1c039c-f6f8-4e72-a024-ebf63478438f)
+![WhatsApp Image 2025-11-13 at 09 10 31_fb0b3c57](https://github.com/user-attachments/assets/195bd39c-2ccb-4c5b-a48a-7980388656bc)
+![WhatsApp Image 2025-11-13 at 09 10 49_5303fec0](https://github.com/user-attachments/assets/379fec0a-80f8-466c-8feb-5b85d9195c8c)
+![WhatsApp Image 2025-11-13 at 09 11 08_d05c1452](https://github.com/user-attachments/assets/78681d98-71ca-4d07-8a58-85dc3eabc291)
 
 
 
 
+
+# 🎨 Prompt 2: Animated Futuristic Video
+Title: Neon City Chase – Animated Cyberpunk Scene
+# Prompt:
+
+```An animated video of a futuristic cyberpunk city at night. Neon signs flicker, and flying cars zoom between skyscrapers covered in holographic ads. The scene begins with a wide aerial shot, then cuts to a close-up of a character in a robotic suit riding a hover bike through the crowded streets. Rain pours down, reflecting bright neon lights on the wet roads. The camera follows dynamically from different angles during a high-speed chase sequence. Include background electronic music and glowing particle effects for realism.```
+
+# Purpose:
+To experiment with animated style, camera motion, and dynamic visual storytelling through layered prompt details.
+
+# video Link:
+https://drive.google.com/file/d/1ntM05D_O7w_-A7x-7ImvUTrVmNRqbZGt/view?usp=drive_link
+
+# video Images:
+![WhatsApp Image 2025-11-13 at 09 11 35_a43b45e6](https://github.com/user-attachments/assets/0a9b26f6-af5f-42d6-850f-5376236d555e)
 
 
 
 
 
 # Result:
-
+The Prompt of the above task executed successfully
